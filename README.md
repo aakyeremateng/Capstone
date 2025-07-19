@@ -1,4 +1,4 @@
-# Capstone
+# Capstone Power BI Project
 Report on Police Shootings Across States and Cities in the U.S
 Questions I Sought to Answer
 While analyzing the dataset on police shootings across the United States, I focused on uncovering patterns, trends, and social implications tied to these incidents. 
